@@ -1,0 +1,15 @@
+/* printer.css */
+
+/* Zeel Patel, 000824838 */
+
+@page {
+	size: 8.5in 11in;
+}
+
+nav {
+	display: none;
+}
+
+header {
+	display: none;
+}
